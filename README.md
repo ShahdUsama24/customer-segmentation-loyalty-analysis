@@ -176,5 +176,3 @@ GitHub:[ ShahdUsama24](https://github.com/ShahdUsama24)
 LinkedIn: [Shahd Usama](https://www.linkedin.com/in/shahdusama/)
 
 
-Just say:
-👉 **“Make it elite finance portfolio README”** 😄
