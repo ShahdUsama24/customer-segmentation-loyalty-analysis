@@ -166,6 +166,10 @@ The project delivers:
 * Implement deep learning analytics models
 
 ---
+## Project Documentation
+
+- Project Proposal: reports/project_proposal.md  
+- Dataset Dictionary: reports/data_dictionary.md
 
 ## 👤 Author
 
