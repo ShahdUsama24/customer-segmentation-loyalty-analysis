@@ -42,21 +42,9 @@ Optimize marketing and financial product strategies
 
 ---
 
-### 2. Financial Feature Engineering
 
-The project builds financial intelligence indicators including:
 
-| Feature                 | Description                 |
-| ----------------------- | --------------------------- |
-| Recency                 | Time since last transaction |
-| Frequency               | Number of transactions      |
-| Monetary Value          | Total financial activity    |
-| Balance Stability       | Transaction variability     |
-| Customer Activity Score | Engagement measurement      |
-
----
-
-### 3. Machine Learning Modeling
+### 2. Machine Learning Modeling
 
 The project uses **K-Means Clustering** for customer segmentation.
 
@@ -69,7 +57,7 @@ Cluster analysis helps identify:
 
 ---
 
-### 4. Model Evaluation
+### 3. Model Evaluation
 
 Cluster quality is evaluated using:
 
@@ -170,6 +158,7 @@ The project delivers:
 
 - Project Proposal: reports/project_proposal.md  
 - Dataset Dictionary: reports/data_dictionary.md
+- -Insights:customer_segmentation_insights.md
 
 ## 👤 Author
 
